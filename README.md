@@ -1,21 +1,22 @@
 <div align="center" width="50">
+<img src="./assets/images/banner.jpeg">
   
 <!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
-![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/images/banner.jpeg)
+<!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/images/banner.jpeg) -->
   
 <div align="center">
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/rashidwassan.png" alt="TryHackMe"> --->
 	
-![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=shoaibkorai&color=blueviolet&label=Profile+Views)
 	
 
 
 <!--- social media icons, you can find them in assets directory of this repo --->
-<!-- <a href="https://rashidwassan.com">
+<!-- <a href="https://shoaibkorai">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173854214-c646c175-420c-40a6-b994-25acf90dcac4.png" />
 </a>   -->
-<a href="https://www.linkedin.com/in/rashidwassan/">
+<a href="https://www.linkedin.com/in/shoaibkorai/">
   <img height="60" alt="Shoaib Korai | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
 <a href="https://www.instagram.com/realshoaibkorai">
