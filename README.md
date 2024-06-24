@@ -1,5 +1,6 @@
 <div align="center" width="50">
-<img src="./assets/images/banner.jpeg">
+<img src="https://github.com/shoaibkorai/shoaibkorai/assets/assets/images/banner.jpeg">
+<!-- <img src="./assets/images/banner.jpeg"> -->
   
 <!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
 <!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/images/banner.jpeg) -->
