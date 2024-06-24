@@ -1,6 +1,7 @@
 <div align="center" width="50">
   
-![image (1)](https://github.com/rashidwassan/rashidwassan/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953)
+<!-- ![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/60597290/51c9ebc3-038e-4751-9f40-8a28e9dca953) -->
+![image (1)](https://github.com/shoaibkorai/shoaibkorai/assets/images/banner.jpeg)
   
 <div align="center">
 
@@ -88,17 +89,17 @@ I often come up with implementing my own ideas and using my own software solutio
 
 <hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shoaibkorai&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shoaibkorai&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <!--- <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div> --->
 
-## Stackoverflow Reputation 
+<!-- ## Stackoverflow Reputation  -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=15750590&theme=dark" height="250">
   </p>
-  
+   -->
 <a href="https://wakatime.com/@94dec0b3-75bc-4456-b8ac-37697338e4ac"><img src="https://wakatime.com/badge/user/94dec0b3-75bc-4456-b8ac-37697338e4ac.svg" alt="Total time coded since Jun 25 2022" /></a>
  
  
@@ -121,4 +122,4 @@ I often come up with implementing my own ideas and using my own software solutio
 </p>
 
 --->
-# shoaibkorai
+
