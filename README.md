@@ -62,28 +62,19 @@
 </h1>
   
 <p><p/>	
-As a DevOps Engineer at ForwardYou AG, I design and implement automation infrastructure & CI\CD pipelines that optimize the deployment processes for enterprise insurance solutions for the European Market to save tonnes of valuable organizational resources. My experience spans developing IT infrastructure at Mehfooz Mustaqbil Foundation, enhancing mobile billing systems at ACS Japan K.K, and delivering large-scale, production-grade mobile app projects at ISAATECH that make the lives of thousands of customers easy, globally. My career is defined by my commitment to operational excellence and innovation, using tools like Jenkins, Kubernetes, Ansible, and other Open-Source DevOps tools to streamline development lifecycles. I often come up with implementing my own ideas and using my own software solutions to increase productivity.
+As a DevOps Engineer at  Sign-DevOps, I design and implement automation infrastructure & CI\CD pipelines that optimize the deployment processes for enterprise insurance solutions for the European Market to save tonnes of valuable organizational resources. 
 
-Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, public speaking, and providing mentorship. As a Microsoft Learn Gold Ambassador, former GDSC Lead, and GitHub Campus Expert, I promote technical literacy and collaboration.
+Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, guiding students & professionals.
 
 My Skillset:
-◆ Python, Java, Dart
+◆ Python, Java, Dart , bash
 ◆ AWS Cloud & ORACLE Cloud
-◆ Ansible
-◆ Terraform
-◆ Node.js, Maven, BaaS
-◆ Docker, Kubernetes, K3s, Rancher
-◆ GitHub Actions + Tekton & Jenkins (CI/CD)
-◆ Test Driven Development, Automated Testing
+◆ Docker, Kubernetes,
+◆ GitHub Actions  Jenkins (CI/CD)
 ◆ GNU Linux, Namespaces & Containerization
 ◆ Microservices Architecture and Best Practices
-◆ Sound Understanding of Computer Hardware
-◆ Blockchain Core Development
-◆ Dart & Flutter (3 years of part-time work experience)
-◆ Software Engineering Best Practices
-◆ Deeper Understanding of Computer Hardware
 
-I often come up with implementing my own ideas and using my own software solutions to increase productivity.
+I often come up with implementing my own ideas and using my own DevOps solutions to increase productivity.
 
 <div><div/>
 <!--- adding 3D earth icon to show some love for the environment 🌏 --->
