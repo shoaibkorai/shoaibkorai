@@ -88,8 +88,3 @@ I often come up with implementing my own ideas and using my own DevOps solutions
   <!-- <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" /> -->
 </p>
 
- 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/snake.svg" alt="Snake animation" />
