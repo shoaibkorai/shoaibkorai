@@ -54,5 +54,5 @@ As a DevOps Engineer at  Sign-DevOps, I design and implement automation infrastr
   <img width="400px"   src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" />
   <!-- <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" /> -->
 
-![Snake animation](https://github.com/shoaibkorai/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shoaibkorai/shoaibkorai/blob/output/github-contribution-grid-snake.svg)
 </p>
