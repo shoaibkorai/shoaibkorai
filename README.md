@@ -1,62 +1,68 @@
-<div align="center" width="50">
-<img src="./assets/images/banner.jpeg">
+<div align="center">
+  <img src="./assets/images/banner.jpeg" alt="Shoaib Korai Banner" width="100%" style="border-radius: 10px;" />
+</div>
+
+<br/>
 
 <div align="center">
-	
-![](https://komarev.com/ghpvc/?username=shoaibkorai&color=blueviolet&label=Profile+Views)
-	
 
+![Profile Views](https://komarev.com/ghpvc/?username=shoaibkorai&color=blueviolet&label=Profile+Views)
 
-<a href="https://www.linkedin.com/in/shoaibkorai/">
-  <img height="60" alt="Shoaib Korai | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
-</a> 
-<a href="https://www.instagram.com/realshoaibkorai">
-  <img height="60" alt="Shoaib Korai | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
-</a>
-<a href="https://twitter.com/realshoaibkorai_">
-    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
-</a> 
-<a href="https://stackoverflow.com/users/15750590/rashid-wassan">
-  <img height="60" alt="Rashid Wassan | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/173852537-7dc3093c-1ecc-4106-b0b3-7aa572d0449d.png" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibkorai/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/realshoaibkorai)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/realshoaibkorai_)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15750590/rashid-wassan)
 
-<div></div>
+</div>
 
+---
 
-&nbsp;
+<h2 align="center">🚀 About Me</h2>
 
-<h1 align="center">
-  ABOUT ME
-</h1>
-  
-<p><p/>	
-I’m Muhammad Shoaib Korai, a passionate and highly skilled DevOps Engineer with a strong foundation in cloud infrastructure, automation, and system engineering. With hands-on experience in designing and deploying highly available, fault-tolerant, and scalable architectures on AWS, I’ve led and contributed to projects that drive efficiency, resilience, and innovation across cloud environments.
+Hi there! I’m **Muhammad Shoaib Korai**, a cloud-native **DevOps Engineer** with a passion for automating workflows, scaling infrastructure, and optimizing cloud architecture.
 
-Currently working remotely at SignDevOps (Florida), I specialize in leveraging a wide range of AWS services such as EC2, VPC, Lambda, RDS, CloudFormation, and CodePipeline to build robust DevOps solutions. My proficiency extends to automating infrastructure and application deployments using Ansible, Shell scripting, and serverless tools. I’m deeply involved in CI/CD pipeline implementation, cloud migration, and performance optimization of complex distributed systems.
+- 🌍 Currently building cloud-native solutions at **SignDevOps (Remote, Florida)**
+- ☁️ AWS Ninja: EC2, RDS, VPC, Lambda, S3, CloudFormation, CodePipeline and more
+- 🛠 CI/CD enthusiast: GitHub Actions, Jenkins, Ansible, Docker, Kubernetes
+- 🧠 Always learning and innovating with cutting-edge DevOps and SRE tools
+- 🔐 Focused on scalable, reliable, and secure infrastructure
 
-With a background in system administration, virtualization (VMware, VBOX), and monitoring (SolarWinds, CloudWatch), I bring a comprehensive approach to DevOps—ensuring operational stability, efficient monitoring, and fast issue resolution. I thrive in fast-paced, collaborative environments where continuous learning and improvement are key to success.
+> "Infrastructure as Code, Automation at Scale, and Continuous Everything."
 
-Whether it’s building infrastructure from the ground up, automating repetitive processes, or improving system reliability, I take pride in solving problems and delivering scalable, production-ready solutions.
+---
 
- **Outside of professional engagements, I actively contribute to the tech community by making open-source contributions, guiding students & professionals.**
-<h2 align="center">
-  My Skillset
-</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
-**| Python, Java, Dart , bash |**
-**AWS Cloud & ORACLE Cloud |**
-**Docker, Kubernetes |**
-**GitHub Actions  Jenkins (CI/CD) |**
-**GNU Linux, Namespaces & Containerization |**
-**Microservices Architecture and Best Practices |**
-
-## I often come up with implementing my own ideas and using my own DevOps solutions to increase productivity.
-
-<div><div/>
-<hr>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shoaibkorai&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <!-- <img width="400px" height="300" src="https://github-readme-stats.vercel.app/api?username=shoaibkorai&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> -->
-  <img width="400px"   src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" />
-  <!-- <img width="400px" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkorai&theme=radical&hide_border=true" /> -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,linux,bash,python,java,git,vscode" />
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkorai&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shoaibkorai&theme=radical&hide_border=true" width="420" />
+</p>
+
+---
+
+<h2 align="center">💡 My Philosophy</h2>
+
+> 🔁 Automate everything  
+> 🧩 Break problems into systems  
+> 📈 Continuously monitor, measure, and improve  
+> 💬 Share knowledge and grow with the community
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+- ✨ Serverless architectures
+- ☁️ Hybrid/multi-cloud DevOps
+- 📦 Observability and SRE practices
+- 🧠 Open-source DevOps tooling
+
+---
+
